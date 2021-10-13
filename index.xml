@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SolPi - Cardano Stake Pool on SolPi </title>
+    <title>SolPi - Cardano Stake Pool on [SolPi]</title>
     <link>http://www.solpi.de/</link>
-    <description>Recent content in SolPi - Cardano Stake Pool on SolPi </description>
+    <description>Recent content in SolPi - Cardano Stake Pool on [SolPi]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://www.solpi.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mission</title>
+      <link>http://www.solpi.de/mission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.solpi.de/mission/</guid>
+      <description>We are supporting true decentrialization to the cardano blockchain by running our pool bare metal on-permises. Our pool is fed by 100% solar power and runs on low power consuming Raspberry Pi&amp;rsquo;s.
+We donate 10% of our profits to seaspiracy.org to support our oceans.</description>
+    </item>
+    
+    <item>
+      <title>Stats</title>
+      <link>http://www.solpi.de/stats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.solpi.de/stats/</guid>
+      <description>Pool-Id: 827900818541013d518ee6b2af343a973c8d836884fb000742307400
+| pool.pm | adapools.org | pooltool.io | cardanoscan.io |</description>
+    </item>
+    
   </channel>
 </rss>
