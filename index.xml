@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SolPi - Cardano Stake Pool on [SolPi]</title>
+    <title>SolPi - Cardano Stake Pool on Home</title>
     <link>http://www.solpi.de/</link>
-    <description>Recent content in SolPi - Cardano Stake Pool on [SolPi]</description>
+    <description>Recent content in SolPi - Cardano Stake Pool on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://www.solpi.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,9 +12,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.solpi.de/mission/</guid>
-      <description>We are supporting true decentralization to the cardano blockchain by running our pool on bare metal on-permises. Our pool is fed by 100% solar power and runs on low power consuming Raspberry Pi&amp;rsquo;s.
-We donate 10% of our profits to seaspiracy.org to support our oceans and stop destroying our beautiful planet.
-Another 10% of our profits we donate to c-Innovations to spread their products and their innovative technology stack on carbon-neutral and carbon-reducing devices to make this planet a better place.</description>
+      <description>By running our pool on 100% solar power and on bare-metal on premise servers, we are providing our delegators a chance to earn rewards and support our planet at once. With your delegation, you support climate change! Support us, make a difference, drive climate change, help to change society for the better by adding awareness and doing the next step in the right direction.
+We donate 10% of our profits to seaspiracy.</description>
+    </item>
+    
+    <item>
+      <title>Setup</title>
+      <link>http://www.solpi.de/setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.solpi.de/setup/</guid>
+      <description>100% renewable solar power from our photovoltaic system on the roof, including a 7-kWh battery in the basement. The pool exits of 4 raspberry pi; two relays, one block producer and one monitoring device. Green energy and low power consumtion.</description>
     </item>
     
     <item>
