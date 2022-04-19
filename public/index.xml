@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SolPi - Cardano Stake Pool on Home</title>
+    <link>http://www.solpi.de/</link>
+    <description>Recent content in SolPi - Cardano Stake Pool on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://www.solpi.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://www.solpi.de/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.solpi.de/about/</guid>
+      <description>I am a passionate software engineer. As a hobby I am maintaining my ada pool. I try to be an example in saving our planet and pushing climate neutrality, by living vegetarian, reducing Co2 footprint, supporting the right projects and adding awareness to the people I get in touch with. The first step is getting aware and changing your own habits.</description>
+    </item>
+    
+    <item>
+      <title>Mission</title>
+      <link>http://www.solpi.de/mission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.solpi.de/mission/</guid>
+      <description>By running our pool on 100% solar power and on bare-metal on premise servers, we are providing our delegators a chance to earn rewards and support our planet at once. With your delegation, you support climate change! Support us, make a difference, drive climate change, help to change society for the better by adding awareness and doing the next step in the right direction.
+We donate 10% of our profits to seaspiracy.</description>
+    </item>
+    
+    <item>
+      <title>Setup</title>
+      <link>http://www.solpi.de/setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.solpi.de/setup/</guid>
+      <description>100% renewable solar power from our photovoltaic system on the roof, including a 7-kWh battery in the basement. The pool exits of 4 raspberry pi; two relays, one block producer and one monitoring device. Green energy and low power consumtion.</description>
+    </item>
+    
+    <item>
+      <title>Stats</title>
+      <link>http://www.solpi.de/stats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.solpi.de/stats/</guid>
+      <description>Pool-Id: 827900818541013d518ee6b2af343a973c8d836884fb000742307400
+| pool.pm | adapools.org | pooltool.io | cardanoscan.io |</description>
+    </item>
+    
+  </channel>
+</rss>
